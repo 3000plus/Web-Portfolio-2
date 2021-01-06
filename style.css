@@ -1,5 +1,6 @@
 body{
   font-family: 'Kufam', cursive;
+  margin: 0;
 }
 section{
   padding-bottom: 100px;
@@ -26,6 +27,15 @@ h1{
 h2{
   font-size: 26px;
 }
+h4{
+  text-align: center;
+  font-size: 28px;
+}
+h5{
+  text-align: center;
+  color: gray;
+  font-weight: bold;
+}
 .cc{
   color: rgb(223, 16, 102);
 }
@@ -34,6 +44,10 @@ h2{
 }
 .img-2{
   width: 95%;
+}
+.img-3{
+  width: 4%;
+  padding: 5px;
 }
 .half-width{
   width: 40%;
@@ -53,6 +67,9 @@ h2{
   float: left;
   margin-left: 3%;
 }
+.sec2{
+  height: 1100px;
+}
 #tc{
   text-align: center;
   padding: 50px 50px;
@@ -70,6 +87,32 @@ h2{
 .link-button img{
   width:4%;
 }
-.sec2{
-  height: 1000px;
+.sec3div{
+  height: 170px;
+  width: 70%;
+  margin: 10% 20%;
 }
+#sec3img{
+  background: url("Images/p7.png");
+  background-size: 650px;
+  background-repeat: no-repeat;
+}
+.sec3indiv{
+  display:inline-block;
+}
+.sec3indiv h1{
+  color: white;
+}
+#sec3indiv1{
+ margin-top: 5%;
+ padding-left: 7%;
+}
+#sec3indiv2{
+  margin-top: 5%;
+  padding-left: 190px;
+ }
+ #center{
+   text-align: center;
+ }
+ 
+ 
